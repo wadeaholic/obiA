@@ -1,5 +1,5 @@
 # obiA
-Phobia Smart Assistant
+## Phobia Smart Assistant
 
 Develop a multi-device application suggesting various remedies (medications, physical/psychological exercises, serious games, useful Web resources,...) for overcoming a specific (set of) phobia(s) affecting a user or a group of users: family, coworkers, "friends" from a social network, etc. To accomplish this goal, a general knowledge base like DBpedia and/or Wikidata, plus conceptualizations such as schema.org's health/medical types will be used. Also, take into consideration the context – e.g., claustrophobia is triggered when the user(s) is/are approaching a close place like an elevator. Additional information could be provided by WikiDoc. See also a list of health-related APIs. Bonus: a proper use of DrugBank data.
 
